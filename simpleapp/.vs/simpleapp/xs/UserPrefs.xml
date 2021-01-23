@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6690F752-EE34-41BC-98BD-248B5BD058E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="simpleapp/Pages/Index.cshtml">
+    <Files>
+      <File FileName="simpleapp/Pages/Index.cshtml" Line="10" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="simpleapp" expanded="True">
+            <Node name="simpleapp" expanded="True" selected="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.simpleapp FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
